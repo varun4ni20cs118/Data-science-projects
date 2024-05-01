@@ -25,7 +25,7 @@
 
 <h2>Usage</h2>
 
-<code>git https://github.com/your_username/used-car-price-prediction.git</code>
+<code>git https://github.com/varun4ni20cs118/used-car-price-prediction.git</code>
 
 <h2>Project Structure</h2>
 <ul>
